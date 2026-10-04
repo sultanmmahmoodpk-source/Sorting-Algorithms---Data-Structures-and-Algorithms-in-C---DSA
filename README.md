@@ -1,6 +1,7 @@
 # 🚀 DSA Roadmap: Step by Step Guide
 
 > 🎯 **Goal:** Learn Data Structures & Algorithms - Sorting & Searching Algorithms 
+
 **Searching** 
 1. Linear Search
 2. Binary Search 
